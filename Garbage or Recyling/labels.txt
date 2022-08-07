@@ -1,0 +1,6 @@
+0 Plastic-Bottles
+1 Paper/Cardboard
+2 Glass
+3 Coated-Paper-Products
+4 Styrofoam
+5 Plastics
